@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(str)
-  if str != str.Uppercase
+  if str != str.Upcase
     puts "HUH?! SPEAK UP, SONNY!"
   elsif str == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
