@@ -18,5 +18,5 @@ def speak_to_grandma(str)
   elsif str == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   else 
-    puts 
+    puts "NO, NOT SINCE 1938!"
 end
